@@ -1,0 +1,8 @@
+{
+	"name": "SockDrawer",
+	"description": "An event map interface for socket.io",
+	"devDependencies": {
+		"mocha":  "1.14.x",
+		"should":  "2.0.x"
+	}
+}
