@@ -1,5 +1,5 @@
 {
-	"name": "SockDrawer",
+	"name": "sockdrawer",
 	"description": "An event map interface for socket.io",
 	"version": "0.0.0",
 	"devDependencies": {
